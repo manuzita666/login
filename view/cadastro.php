@@ -10,15 +10,15 @@
     <div>
       <h1>Cadastro</h1>
       <form action="../controller/CadastroController.php" method="POST" id="cadastro">
-      <input  name="fullname" type="text" placeholder="Email">
+      <input  name="email" type="email" placeholder="Email">
       <br></br>
       <input  name="fullname" type="text" placeholder="Nome Completo">
       <br></br>
-      <input  name="fullname" type="text" placeholder="Senha">
+      <input  name="password" type="password" placeholder="Senha">
       <br></br>
-      <input name="fullname" type="text" placeholder="Confirmar Senha">
+      <input name="passwordconf" type="password" placeholder="Confirmar Senha">
       <br></br>
-      <button>Cadastre-se</button> 
+      <button type="submit">Cadastre-se</button> 
       <br></br>
       <a href="login.php" class="login-link">Já tem uma conta? Faça login</a>   
       </form>

@@ -15,7 +15,7 @@
       
       <script>
         function redirect() {
-            window.location.href = "atualizaçaodesenha.html";
+            window.location.href = "atualizaçaodesenha.php";
         }
     </script>
     </div>   

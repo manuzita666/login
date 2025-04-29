@@ -15,9 +15,9 @@
         <br><br>
         <button>Logar</button>
         <br></br>
-        <a href="cadastro.html" class="cadastro-link">Não tem conta? Cadastre-se</a> 
+        <a href="cadastro.php" class="cadastro-link">Não tem conta? Cadastre-se</a> 
         <br></br>
-        <a href="esquecisenha.html" class="-link">Esqueci Senha</a>  
+        <a href="esquecisenha.php" class="-link">Esqueci Senha</a>  
     </div>
   </body>
 </html>

@@ -15,7 +15,7 @@
       
       <script>
         function redirect() {
-            window.location.href = "proximo.html";
+            window.location.href = "proximo.php";
         }
     </script>
     </div>   

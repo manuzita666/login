@@ -32,16 +32,17 @@ input{
     font-size: 15px;
 }
 
-button{
-    background-color: dodgerblue;
-    border: none;
-    padding: 15px;
-    width: 100%;
-    border-radius: 10px;
+input[type="submit"] {
+    background-color: #ff6f91;
     color: white;
-    font-size: 15px;
-   
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
 }
+input[type="submit"]:hover {
+    background-color: #ff4a7c;
 
 button:hover{
     background-color: deepskyblue;
