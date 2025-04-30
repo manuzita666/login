@@ -9,7 +9,7 @@
   <body class="background-login">
     <div>
         <h1>Login</h1>
-        <input type="text" placeholder="Nome">
+        <input type="email" placeholder="email">
         <br><br>
         <input type="password" placeholder="senha">
         <br><br>
